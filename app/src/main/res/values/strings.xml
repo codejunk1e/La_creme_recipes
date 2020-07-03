@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">La crème ‎recipes</string>
+    <string name="recipe_image">recipe image</string>
+    <string name="quantity">Quantity</string>
+    <string name="measure">Measure</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="forward_arrow">forward arrow</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forward">forward</string>
+    <string name="backward">backward</string>
+    <string name="video_not_available">Video not available</string>
+    <string name="step_description">Step Description</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam interdum justo at diam varius, a commodo dolor consequat. Maecenas feugiat at lorem accumsan finibus. In efficitur quam ut sodales pretium rbfjbr bsufgbsb srrfibsdfbk sdfkuksdvbfk f;wefubwrjf rfbuwbfjk rrvfuiwevb sfuvbuier auabfiub ikfvawbf afuabfji fofb sriofoirbfg rg srg rg ruib awer g wrifg aweurfkr geor god.</string>
+    <string name="show_as_widget">Show as Widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
