@@ -23,6 +23,7 @@ Working with android widget.
 * LiveData
 * ViewModel
 * Room Database 
+* ExoPlayer 
 
 ## Next Steps
 Because this was initially my Udacity project, I was limited to using some specific tools. 
