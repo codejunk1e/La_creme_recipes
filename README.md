@@ -15,7 +15,6 @@ Working with android widget.
   <img src="https://github.com/codejunk1e/La_creme_recipes/blob/master/screenshots/ingredients.jpg" width="200">
   <img src="https://github.com/codejunk1e/La_creme_recipes/blob/master/screenshots/steps.jpg" width="200">
   <img src="https://github.com/codejunk1e/La_creme_recipes/blob/master/screenshots/step_detail.jpg" width="200">
-  <img src="https://github.com/codejunk1e/La_creme_recipes/blob/master/screenshots/recipie_in_landscape.jpg" width="200">
 </p>
 
 
